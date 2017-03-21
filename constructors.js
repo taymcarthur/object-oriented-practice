@@ -57,6 +57,21 @@ function Human(val){
   }
 }
 
+//EASY MODE
+//object.create (){
+
+  //var Dog = {
+    //hungry: false,
+    //color: "black"
+  //}
+
+  //var sadie = object.create(Dog)
+  //sadie.color = "white"
+
+  //var moonshine = object.create(Dog)
+  //moonshine.color = "blue-red"
+//}
+
 
 //        __
 //   ____/ /___  ____ ______
